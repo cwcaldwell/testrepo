@@ -1,3 +1,6 @@
 # testrepo
 IBM Developer Skills Network Courses
-first edit
+
+## Editing the file
+
+It's a markdown file in this repository
